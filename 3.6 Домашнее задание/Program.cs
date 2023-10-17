@@ -21,7 +21,7 @@ Console.WriteLine(" Full name: {0} \n Age: {1} \n Email: {2} \n Programming: {3}
     pointsMaths,
     pointsPhisics
     );
-Console.ReadKey();
+Console.ReadKey(); 
 
 //Задание 2. Реализация подсчёта количества баллов по всем предметам
 double sumPoints = pointsProgramming + pointsMaths + pointsPhisics;
